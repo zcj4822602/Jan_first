@@ -1,0 +1,8 @@
+visiturl||['https://www.baidu.com/']
+find_ele||['kw','自省']
+click_login||['su']
+assert_words||[r'百度']
+clear_words||['kw']
+find_ele||['kw','python']
+click_login||['su']
+assert_words||[r'百度一下']
